@@ -3,6 +3,7 @@
 
 <p align="center">
 A complete guide to my Windows 11 customization - clean, aesthetic, and productive.
+WARNING! A part of my customization was taken from this [repo!](https://github.com/SleepyCatHey/Ultimate-Win11-Setup)
 </p>
 
 Nothing complicated, everything can be done in a couple of clicks, and every second PC user will understand it.
