@@ -35,7 +35,7 @@ Nothing complicated, everything can be done in a couple of clicks, and every sec
 > [!CAUTION]
 > By installing tweaks, you waive responsibility and do everything at your own peril and risk! (Recommended to make a Windows restore point).
 
-> - Remove Taskbar Window Suffixes
+- Remove Taskbar Window Suffixes
 >   - (File Explorer only)
 > -  Taskbar Dock Animation
 >    - Maximum scale = 105%
