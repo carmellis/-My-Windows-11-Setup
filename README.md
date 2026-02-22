@@ -5,3 +5,4 @@ Nothing complicated, everything can be done in a couple of clicks, and every sec
 # 🔥 Details!
 ## 🦁 Brave!
 - 1. Install [Brave](https://brave.com).
+- 2. Download my Brave [customisation guide](https://github.com/carmellis/-My-Windows-11-Setup/tree/main/Brave)
