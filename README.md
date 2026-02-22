@@ -37,6 +37,10 @@ Nothing complicated, everything can be done in a couple of clicks, and every sec
 
 > - Remove Taskbar Window Suffixes
 >   - (File Explorer only)
-> -  Taskbar Dock Animation
->    - Maximum scale = 105%
->    - Effect radius = 100 px
+> - Taskbar Dock Animation
+>  - Maximum scale = 105%
+>  - Effect radius = 100 px
+> - Taskbar on top for Windows 11
+> - Taskbar Volume Control
+> - Windows 11 Notification Center Styler
+>   - 
