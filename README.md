@@ -36,13 +36,13 @@ Nothing complicated, everything can be done in a couple of clicks, and every sec
 > By installing tweaks, you waive responsibility and do everything at your own peril and risk! (Recommended to make a Windows restore point).
 
 > - Remove Taskbar Window Suffixes
->   - (File Explorer only)
+   - (File Explorer only)
 > - Taskbar Dock Animation
->    - Maximum scale = 105%
->    - Effect radius = 100 px
+    - Maximum scale = 105%
+    - Effect radius = 100 px
 > - Taskbar on top for Windows 11
 > - Taskbar Volume Control
 > - Windows 11 Notification Center Styler
->    - Theme: Matter
+   - Theme: Matter
 > - Windows 11 Start Menu Styler
->   - Theme: TranslucentStartMenu
+   - Theme: TranslucentStartMenu
