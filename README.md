@@ -17,7 +17,7 @@ Nothing complicated, everything can be done in a couple of clicks, and every sec
 
 ## 📑 Apps
 
-| 📚 Entry | ✨ App |
+| 📚 App | ✨ Link |
 |---------------------|------------|
 | Screenshots        | [ShareX](https://getsharex.com/) |
 | Taskbar             | [Windhawk](https://windhawk.net/) |
