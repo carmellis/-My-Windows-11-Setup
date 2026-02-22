@@ -28,3 +28,14 @@ Nothing complicated, everything can be done in a couple of clicks, and every sec
 | Music Player        | [Spotify](https://download.scdn.co/SpotifySetup.exe) | 
 | Screen Recording    | [NVIDIA App](https://www.nvidia.com/en-eu/software/nvidia-app/) |
 | Wallpapers         | [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) |
+
+---
+
+## 🦅 Windhawk tweaks
+> [!CAUTION]
+> By installing tweaks, you waive responsibility and do everything at your own peril and risk! (Recommended to make a Windows restore point).
+> - Remove Taskbar Window Suffixes
+     - (File Explorer only)
+> -  Taskbar Dock Animation
+     - Maximum scale = 105%
+>    - Effect radius = 100 px
