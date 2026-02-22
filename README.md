@@ -1,4 +1,6 @@
-# My Windows 11 Setup
+<h1 align="center">⚠️ UNDER CONSTRUCTION ⚠️</h1>
+<h3 align="center">✨ My Windows 11 Setup ✨</h3>
+
 > Basic settings, Brave, wallpapers, terminal etc. 💝
 
 Nothing complicated, everything can be done in a couple of clicks, and every second PC user will understand it.
