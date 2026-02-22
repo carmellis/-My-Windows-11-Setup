@@ -11,22 +11,14 @@ Nothing complicated, everything can be done in a couple of clicks, and every sec
 
 ---
 
-## 📑 Table of Contents
+## 📑 Apps
 
-| 📚 Entry | ✨ App |
+# | 📚 Entry | ✨ App |
 |---------------------|------------|
-| Status Bar          | [YASB](#yasb) |
-| Window Manager      | [GlazeWM](#glazewm) |
-| App Launcher        | [Flow Launcher](#flowlauncher) |
-| Taskbar             | [Windhawk](#windhawk) |
-| Text Editor         | [VSCode](#vscode) |
-| Terminal            | [Windows Terminal](#windows-terminal) |
-| Browser             | [Brave](#brave) |
-| System Fetch        | [Fastfetch](#Fastfetch) |   
-| Shell Prompt        | [Oh My Posh](#ohmyposh) |
-| Audio Visualizer    | [Cava](#cava) |
-| Music Player        | [Spotify](#spotify) | 
-| Note Taking         | [Notesnook](#notesnook) |
-| Screen Recording    | [OBS Studio](#obsstudio) |
-| File Explorer Mod   | [ExplorerBlurMica](#ExplorerBlurMica) |
-| Other Tools         | [Extras](#extras) |
+| Screenshots        | [ShareX](https://getsharex.com/) |
+| Taskbar             | [Windhawk](https://windhawk.net/) |
+| Text Editor         | [VSCode](https://code.visualstudio.com/docs/?dv=win64user) or notepad |
+| Browser             | [Brave](https://brave.com) |
+| Music Player        | [Spotify](https://download.scdn.co/SpotifySetup.exe) | 
+| Screen Recording    | [NVIDIA App](https://www.nvidia.com/en-eu/software/nvidia-app/) |
+| Wallpapers         | [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/) |
