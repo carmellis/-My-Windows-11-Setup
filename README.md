@@ -1,13 +1,9 @@
-<h1 align="center">⚠️ UNDER CONSTRUCTION ⚠️</h1>
-<h3 align="center">✨ My Windows 11 Setup ✨</h3>
+<h1 align="center">✨ My Windows 11 Setup ✨</h1>
 
 <p align="center">
-A complete guide to my Windows 11 customization - clean, aesthetic, and productive.
-WARNING! A part of my customization was taken from this repo!
-  https://github.com/SleepyCatHey/Ultimate-Win11-Setup
+Nothing complicated, everything can be done in a couple of clicks, and every second PC user will understand it.
 </p>
 
-Nothing complicated, everything can be done in a couple of clicks, and every second PC user will understand it.
 # 🔥 Details!
 ## 🦁 Brave!
 > [!NOTE]
