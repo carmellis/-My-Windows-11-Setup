@@ -1,0 +1,22 @@
+WARNING! Before typing these colors, make sure you have installed a Catppuccin Mocha Theme from Chrome Web Store: https://chromewebstore.google.com/detail/catppuccin-chrome-theme-m/bkkmolkhemgaeaeggcmfbghljjjoofoh
+
+Step 1: Install Dark Reader extension: https://chromewebstore.google.com/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+
+Step 2: Click on Dark Reader icon on extension list in browser (obviously xdd)
+
+Step 3: Follow these steps: Settings > Advanced > Dev Tools (last button). On dev tools, click Advanced > Enable Prototype design
+
+After this steps, click again on Dark Reader icon, now follow these steps (veri important 🤓🤓)
+
+See all options > Colors
+
+Type these HEX codes:
+
+Background: #1e1e2e
+
+Text: #cdd6f4
+
+Selection: (Basically it will be Default, u should set "Custom") #585b70
+
+Save and exit, refresh web page for results!
+
